@@ -52,3 +52,8 @@ Ensure you have the following installed:
 
 The server will start on `http://localhost:5000`.
 
+## Author: 
+Samuel Aemro Melese - https://github.com/samuelAemro12/
+## Contact: 
+Samuel Aemro - samuelaemrowork12@gmail.com
+
